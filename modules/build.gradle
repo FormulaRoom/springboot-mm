@@ -19,10 +19,6 @@ archivesBaseName = 'modules'
 ext {
 }
 
-jar {
-    enabled = false
-}
-
 bootRepackage{
     enabled = false
 }
